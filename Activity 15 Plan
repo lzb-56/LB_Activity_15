@@ -1,0 +1,19 @@
+## Steps
+# Project Steps
+Create an appropriate yaml header
+Present armed forces as a data frame where the case is an individual solider and contains rank names
+Present the line graph of 8 baby names with 4 of each gender, from the BabyNames data
+Present the peak of the boxplot graph to show the max volume and the coresponding cutout
+
+# Repo Steps
+Create a repository
+Add a README file
+Create two issues, one for filling in the blank README file the other for adding the Activity 14 code
+Fill in the README file with the appropriate information
+Close the issue about the unfilled README file
+Create a new branch for the Activity 14 code
+Add the Activity 14 code to that new branch
+Pull the Activity 14 code from the new side branch into the main branch
+Close the issue about the Activity 14 code not being in the main branch
+Add a planning file, or text file, to the main branch
+Commit the output pdf file of the activity 14 code into the main branch 
