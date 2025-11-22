@@ -22,6 +22,7 @@ execute:
 ## Make two tied data frames for the June 2025 armed forces data
 ## 1 where case is a group of soliders and 1 where the case is
 ## an individual solider. Both need to have rank added.
+## This code was done with Tidyverse style guide
 
 # Step 1: Load Packages ----
 library(tidyverse)
@@ -450,4 +451,5 @@ ggplot(data.frame(x = c(0, 12)), aes(x = x)) +
     x = "Cutout",
     y = "Volume"
   ) +
+
   theme_classic()
